@@ -22,9 +22,9 @@ ________________________________________
 
 •	Revenue by Payment Method:
 
-o	UPI contributes the highest share (largest portion of revenue).
+      o	UPI contributes the highest share (largest portion of revenue).
 
-o	Followed by Cash and Uber Wallet.
+      o	Followed by Cash and Uber Wallet.
 
 o	Credit and Debit cards contribute the least.
 
